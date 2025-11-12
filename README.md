@@ -1,3 +1,3 @@
-## Fundamentos-da-Linguagem-Python
+# Fundamentos-da-Linguagem-Python
 
-- Primeiros passos com a linguagem Python.
+## rimeiros passos com a linguagem Python.

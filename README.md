@@ -1,3 +1,4 @@
 # Fundamentos-da-Linguagem-Python
 
-## primeiros passos com a linguagem Python.
+ Primeiros passos com a linguagem Python.
+ Meus códigos criados nas aulas do professor Vinicius(Daxus).
